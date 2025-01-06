@@ -92,7 +92,7 @@
             <!-- Illustration Section -->
             <div class="w-1/2 flex flex-col items-center">
                 <img
-                    src="<%= request.getContextPath() %>/Assets/signup.svg"
+                    src="<%= request.getContextPath() %>/resources/images/Assets/signup.svg"
                     alt="Sign up illustration"
                     class="max-w-full h-auto mb-4"
                     />

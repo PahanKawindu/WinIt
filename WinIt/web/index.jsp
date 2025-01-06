@@ -65,7 +65,7 @@
             <!-- Illustration Section -->
             <div class="w-1/2 flex flex-col items-center">
                 <img
-                    src="<%= request.getContextPath()%>/Assets/signin.svg"
+                    src="<%= request.getContextPath()%>/resources/images/Assets/signin.svg"
                     alt="Login illustration"
                     class="max-w-full h-auto mb-4"
                     />
