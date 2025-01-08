@@ -23,7 +23,7 @@
                   if(request.getParameter("s")!= null){
                   if(request.getParameter("s").equals("0")){
                       %>
-                      <h6 class='text-danger'>Incorrect username or password.</h6>
+                      <h6 style='color: red'>Incorrect username or password.</h6>
                       <%
                   }
                   }  
